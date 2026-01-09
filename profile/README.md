@@ -13,6 +13,8 @@
 
 
 #### Apps:
+ - [Inscriptions](https://github.com/elly-codes/inscriptions): DeepL
+ - [Unboxing](https://github.com/elly-codes/unboxing): Deb Packages
  - [Jorts](https://github.com/elly-codes/jorts): Sticky notes
  - [Reminduck](https://github.com/elly-codes/reminduck): Reminders
  - [Rollit](https://github.com/elly-codes/rollit): Dice app
